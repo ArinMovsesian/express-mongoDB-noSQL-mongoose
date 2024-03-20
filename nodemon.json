@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "arin",
+        "MONGO_PASSWORD": "Arin%401992",
+        "MONGO_DEFAULT_DATABASE": "mongoose"
+    }
+}
